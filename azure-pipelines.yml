@@ -89,7 +89,7 @@ steps:
   displayName: 'Create code coverage report'
 
 - task: SonarCloudAnalyze@1
-  displayName: 'Run SonarCloud code analysis'
+  displayName: 'Run SonarCloud code analysis2'
   condition: |
     and
     (
